@@ -15,6 +15,5 @@ Fazer uma view de select que fornaça a saída conforme se pede
 
 <h1 align="center">Banco de dados</h1>
 
-<div style="text-align:center">
-  ![image](https://github.com/Matheus-Franca-x/LBDExerc002/assets/99504777/43d3e9e3-dc1d-4f3b-942d-95d7e38a0ef6)
-</div>
+![image](https://github.com/Matheus-Franca-x/LBDExerc002/assets/99504777/43d3e9e3-dc1d-4f3b-942d-95d7e38a0ef6)
+
