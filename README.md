@@ -2,6 +2,7 @@
 
 EXERCÍCIO UNION – LABORATÓRIO DE BANCO DE DADOS FATEC ZL
 Prof. M.Sc. Leandro Colevati dos Santos
+
 Considere o MER abaixo do domínio de palestras em uma Faculdade. Palestrantes apresentarão 
 palestras para alunos e não alunos. Para o caso de alunos, seus dados já são referenciáveis em 
 outro sistema, portanto, basta saber seu RA, no entanto, para não alunos, para prover 
